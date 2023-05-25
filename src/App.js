@@ -5,7 +5,7 @@ import "./style.css"
 export default function App() {
   return (
     <>
-    <h1>Project: FAQ/Accordion</h1>
+    <h1>Project: FAQ</h1>
     <div className="container">
         <h2>Frequently Asked Question</h2>
         <div className="questions">
